@@ -1,5 +1,1 @@
-- 👋 Hi, I’m Anomalia
-- 👀 I’m interested in space related things such as JWST or Starship!
-- 🌱 I’m currently learning Java atm but have already learned Python and C#
-- 💞️ Project Manager of VoidedSky Minecraft Server
-- 📫 How to reach me is through the email randall.davis0705@gmail.com or at Discord on the VoidedSky server at https://discord.gg/voidedsky
+
